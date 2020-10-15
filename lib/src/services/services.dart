@@ -11,5 +11,5 @@ import 'package:angel_framework/angel_framework.dart';
 /// and respond to both REST and WebSockets.
 ///
 /// Read more here:
-/// https://github.com/angel-dart/angel/wiki/Service-Basics
+/// https://docs.angel-dart.dev/guides/service-basics
 Future configureServer(Angel app) async {}
