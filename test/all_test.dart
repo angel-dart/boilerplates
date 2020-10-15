@@ -13,7 +13,7 @@ import 'package:test/test.dart';
 // would have to first bind a socket, and then account for network latency.
 //
 // See the documentation here:
-// https://github.com/angel-dart/test
+// https://github.com/angel-dart/angel/tree/master/packages/test
 //
 // If you are unfamiliar with Dart's advanced testing library, you can read up
 // here:
